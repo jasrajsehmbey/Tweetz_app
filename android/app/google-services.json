@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1025271905524",
+    "project_id": "tweetz-cebb7",
+    "storage_bucket": "tweetz-cebb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025271905524:android:ec042ccb4069dbf53772a1",
+        "android_client_info": {
+          "package_name": "com.jasraj.tweetz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025271905524-khm5vor1n5d7gbc7m8fvqscp6sqc222b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZl6DqoraOqDQUxuGj6NeP9aA_7fKgGso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025271905524-khm5vor1n5d7gbc7m8fvqscp6sqc222b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
