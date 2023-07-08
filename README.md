@@ -1,6 +1,8 @@
 # tweetz
 
-A new Flutter project.
+Twitter clone app with Flutter, allowing authenticated users to share messages and photos
+publicly. Implemented read and like functionalities for an engaging user experience.
+Employed Firebase for seamless authentication and efficient backend operations.
 
 ## Getting Started
 
